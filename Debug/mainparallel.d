@@ -1,0 +1,1 @@
+mainparallel.d: ../mainparallel.cpp
